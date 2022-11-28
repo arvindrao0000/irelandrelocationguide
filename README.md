@@ -1,4 +1,4 @@
-# Things to do
+# Topics
 
 ## [Travelling to Ireland](https://github.com/arvindrao0000/irelandrelocationguide/blob/147853afd016f706673f786f778d08d5112ae26f/Travelling%20to%20Ireland)
 If you're just about ready to board your flight or drive or cruise to Ireland, here are the things to keep in mind
@@ -26,3 +26,9 @@ How to leverage public transport while staying in Ireland
 
 ## Online shopping
 If you're from a country where you're used to one day delivery and items always being available in an ecommerce site. You're in for a shock.
+
+## Buying a house
+TBD
+
+## Buying a Car
+TBD
